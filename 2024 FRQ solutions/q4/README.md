@@ -14,5 +14,5 @@
 
 # What I learned from this problem:
 * Nothing really
-* Me after realizing I forgot to include return sum; due to the pressure of time
 ![image](https://github.com/QuantumXQuasar/AP-CSA-mp3-work/assets/147278729/4f71ac0f-9829-402e-ac73-be051d85fdc8)
+* Me after realizing I forgot to include return sum; due to the pressure of time
