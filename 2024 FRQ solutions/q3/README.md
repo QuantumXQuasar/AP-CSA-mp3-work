@@ -13,5 +13,5 @@
 * Moreover, knowing String methods such as .substring() really helped.
 
 # What I learned from the problem:
-* Shrek stole Fiona from lord Farquaad 
+* Mike Shrezovski
 ![image](https://github.com/QuantumXQuasar/AP-CSA-mp3-work/assets/147278729/89461759-d276-4e20-9a3c-2c63a6f82946)
